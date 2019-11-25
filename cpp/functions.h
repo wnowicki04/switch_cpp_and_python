@@ -3,4 +3,4 @@
 
 void assign (int& value);
 
-#endif
+#endif //ending a variable event
