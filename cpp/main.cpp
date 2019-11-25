@@ -7,9 +7,9 @@ int value; //@ref H_FUNCTIONS
 int main()
 {
 	//root function body
-	assign(value);
+	assign(value); //@ref H_FUNCTIONS
 	
-	switch (value)
+	switch (value) //switch function
 	{
 		case 0:
 			std::cout << "false" << std::endl;
